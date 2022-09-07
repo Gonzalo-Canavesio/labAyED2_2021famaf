@@ -1,0 +1,5 @@
+¿Qué valor tendrá y luego de ejecutar el siguiente código?
+Tendra el valor 3
+
+En el Laboratorio 1 se utilizaba la función fscanf() ¿Qué parámetros tomaba dicha función?
+Toma como parametros direcciones de memoria donde guardar las variables que contiene en su texto el archivo que escanea

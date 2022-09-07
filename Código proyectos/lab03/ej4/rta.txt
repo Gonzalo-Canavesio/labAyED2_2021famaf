@@ -1,0 +1,7 @@
+El parámetro int *y de absolute() es de tipo in, de tipo out o de tipo in/out
+Es de tipo out
+
+ ¿Qué tipo de parámetros tiene disponibles C para sus funciones?
+○ Parámetros in -> Variables normales
+○ Parámetros out -> Punteros *p
+○ Parámetros in/out -> Segmentos de memoria &p (?)

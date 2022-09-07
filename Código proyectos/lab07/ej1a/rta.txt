@@ -1,0 +1,2 @@
+El problema de esta implementación es que no estaba siendo bien creado el arrreglo de costos, se creaba de manera local en la función graph_empty y luego se perdia, ya que no se utilizaba memoria dinamica para crear ese arrreglo
+También estaban incompletas las funciones de agregar una arista y revisar el costo de una arista, porque no se estaba accediendo correctamente al indice que se debia acceder (siempre se accedia al indice 0) 
